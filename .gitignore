@@ -1,0 +1,5 @@
+/dbdata/*
+/nginx/logs/*
+/logs/*
+/temp/*
+.env

@@ -1,2 +1,3 @@
 # my-pycms
-Learn to create my personal CMS based on Laravel using PyroCMS
+
+My personal project to learn CMS based on Laravel using PyroCMS.
